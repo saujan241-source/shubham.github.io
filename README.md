@@ -1,7 +1,7 @@
 > 🧠 "While others sleep, I build.  
 > While others talk, I execute.  
 > While others quit, I commit."
-<!DOCT">
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
