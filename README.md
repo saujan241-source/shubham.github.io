@@ -101,5 +101,5 @@ document.querySelector(".quote").innerText = quotes[random];
 }
 
 </script>
-
+<shubham>
 
